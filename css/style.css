@@ -1,0 +1,115 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: "Montserrat";
+}
+
+p{
+	font-size: 18px;
+}
+
+.navbar-static-top {
+    margin-bottom: 0;
+    font-size: 18px;
+    letter-spacing: 3px;
+	border-bottom: 6px solid #f4511e;
+}
+
+.nav.navbar-nav  li  a {
+	color: black;
+}
+
+.nav.navbar-nav  li  a:hover {
+	color: #fff;
+	background-color: #f4511e;
+}
+
+.navbar-header .navbar-brand, .navbar-header .navbar-brand:hover {
+	font-size: 22px;
+	color: black;
+}
+
+#personal-img{
+	display: inline;
+	margin-bottom: 20px;
+}
+
+hr.orange{
+	border-color: #f4511e;
+	width: 100%;
+}
+
+hr.white{
+	border-color: white;
+	width: 100%;
+}
+
+.p-margin{
+	margin: 30px 0px;
+}
+
+.thumbnail{
+	box-shadow: 6px 6px 6px #2d2d30;
+}
+
+.thumbnail > p{
+	text-align: justify;
+}
+
+.thumbnail > h3 {
+	margin: 20px 0px;
+}
+
+.thumbnail > .alert {
+	margin: 20px 0px;
+	font-size: 15px;
+}
+
+._padding{
+	padding: 20px;
+	padding-top:5px;
+	border: 0;
+}
+
+.sub-heading{
+	margin-top: 0px;
+}
+
+.tags {
+	margin-top: 20px;
+}
+
+.alert{
+	color: black;
+}
+
+.bg-1 { 
+    background-color: #2d2d30;
+    color: white;
+}
+
+.bg-2 { 
+    background-color: #1abc9c;
+    color: black;
+}
+
+.contact-link{
+	color: black;
+	text-decoration: underline;
+}
+
+.footer{
+	border-top: 6px solid #f4511e;
+}
+
+.footer-text {
+	margin: 20px 0px;
+	color: #2d2d30;
+}
+
+.top-arrow{
+	font-size: 18px;
+}
